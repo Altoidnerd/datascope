@@ -27,10 +27,10 @@ First of all, "where should I open my business" or "is location X a good locatio
 Secondly, when are the big fluctuations in the ridership, what are the periodicities, and what causes those fluctuations?  It would be nice to be prepared for those fluctuations; we can see in the data for stop 40380 there is clearly an annual dip in riders. What other fine grained periodicities are there?  Are fridays much busier than mondays?  There are lots of questions that could be asked in regards to periodicity that could help a business prepare its schedules and staffing.
 
 
-![40380 image]('img/40380.png')
+![40380 image](img/40380.png)
 Clear annual dips
 
-![40380 weekdays]('img/40380.png')
+![40380 weekdays](img/40380_weekday.png)
 There is a lot more detail apparent in the weekday only plots. What is the reason for the number of low outliers that appear to have annual recurrence? 
 
 
