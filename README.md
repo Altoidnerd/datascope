@@ -22,7 +22,7 @@ Datascope challenge questions
 
 *        What questions could you potentially explore/answer with this data?
 
-First of all, "where should I open my business" or "is location X a good location for me?"  To answer this, I could look at the standard deviations as suggested in the warmups.  If my business is one that can deal with large fluctuations, then having a large standard deviation isn't a problem.  If on the other hand my business is one that cannot really deal with "getting slammed" occasionally, I should pick a location where the mean is high and the standard deviation is lower.
+First of all, "where should I open my business" or "is location X a good location for me?"  I could look at the standard deviations as suggested in the warmups.  If my business is one that can deal with large fluctuations, then having a large standard deviation isn't a problem.  If on the other hand my business is one that cannot really deal with "getting slammed" occasionally, I should pick a location where the mean is high and the standard deviation is lower.
 
 Secondly, when are the big fluctuations in the ridership, what are the periodicities, and what causes those fluctuations?  It would be nice to be prepared for those fluctuations; we can see in the data for stop 40380 there is clearly an annual dip in riders. What other fine grained periodicities are there?  Are fridays much busier than mondays?  There are lots of questions that could be asked in regards to periodicity that could help a business prepare its schedules and staffing.
 
@@ -40,9 +40,7 @@ If I wanted to account for what is causing the outliers, I'd need to test a hypo
 
 *        How would you want to see data presented, to make it actionable by you or others?
 
-Plots. Anything but tables of numbers.
-
-I like scatter plots.  Clever visualization is always important when trying to make a case.  The right kind of visualization is much more convincing to non-experts than just a scatter plot.
+Plots. Anything but tables of numbers. But clever visualization is always important when trying to make a case.  The right kind of visualization is much more convincing to non-experts than just any plot.
 
 
 
