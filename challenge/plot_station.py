@@ -8,7 +8,7 @@ from highest_mean import datadict
 station = sys.argv[1]
 
 plt.plot(range(len(datadict[station])), datadict[station])
-plt.title('Station {} ridership'.format(station))
+plt.title('Station {} ridership (all days)'.format(station))
 plt.xlabel('Days after Jan 01, 2001')
 plt.ylabel('Riders')
 
